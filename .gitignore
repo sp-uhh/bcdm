@@ -1,0 +1,6 @@
+myenv/
+ckpts/
+lightning_logs/
+logs/
+preprocessing/
+*.pyc
