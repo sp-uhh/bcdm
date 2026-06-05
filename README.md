@@ -57,7 +57,19 @@ python calc_metrics.py --test_dir <your_test_dir> --enhanced_dir <your_enhanced_
 to calculate and output the instrumental metrics.
 
 
-## Citations / References
+## Citation
 
-We kindly ask you to cite our papers in your publication when using any of our research or code:
-TODO
+If you use this repository in your research, please cite:
+
+```bibtex
+@INPROCEEDINGS{khanagha2026bcdm,
+  author    = {Khanagha, Sina and Lay, Bunlong and Gerkmann, Timo},
+  booktitle = {ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title     = {Bone-Conduction Guided Multimodal Speech Enhancement with Conditional Diffusion Models},
+  year      = {2026},
+  pages      = {14387--14391},
+  doi       = {10.1109/ICASSP55912.2026.11463781}
+}
+```
+
+
